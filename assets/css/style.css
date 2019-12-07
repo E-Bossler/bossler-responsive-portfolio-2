@@ -1,0 +1,55 @@
+.navbar{
+    width: 100%;
+    background-color: white;
+    height: 100px;
+    padding: 0;
+}
+
+.name-block{
+    background-color:green;
+    color:white;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin: 0 0 0 10%;
+    text-align: center;
+    background-color: #176460;
+}
+
+#name{
+    line-height:100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#container{
+    background-color: white;
+    margin: 10px 10px 0 10%;
+    padding: 20px;
+    max-width: 960px;
+    border-width: 5px;
+    border-color: #176460;
+}
+
+body{
+    background-image: url(../images/trees.png);
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+#headshotpic{
+    height: 200px;
+    float: left;
+    padding: 0 10px 10px 0;
+}
+
+#headshotpic2{
+    height: 200px;
+    float: right;
+    padding: 0 10px 10px 10px;
+}
+
+h2{
+    color: #176460;
+}
+
+
