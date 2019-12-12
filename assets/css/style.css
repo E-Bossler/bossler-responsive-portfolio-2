@@ -63,3 +63,28 @@ h2{
     border-bottom-width: 0;
 }
 
+#portfolioProjectsItems {
+	display: inline;
+}
+
+.portfolioPics {
+	height: 150px;
+	width: 300px;
+	margin: 0;
+	padding: 0;
+}
+
+.portfolioText {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width:300px;
+	position: relative;
+    top: -70px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px; 
+    margin: 0;
+    padding: 0;
+}
+
